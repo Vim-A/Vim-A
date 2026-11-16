@@ -1,111 +1,104 @@
-# <div align="center">Hi there, I'm David Adrian 👋</div>
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Informatics+Student+at+Universitas+Tarumanagara;Focused+on+Machine+Learning+and+Deep+Learning;Interested+in+LLM%2C+NLP%2C+and+Computer+Vision;Learning%2C+building%2C+and+improving+every+day" alt="Typing SVG" />
+# David Adrian
+
+### Informatics student building with Python, machine learning, and curiosity.
+
+<p>
+  <a href="https://github.com/Vim-A">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/david-adrian-177100332/">LinkedIn</a> ·
+  <a href="mailto:ropildavid@gmail.com">Email</a> ·
+  <a href="https://instagram.com/Onic.Vim">Instagram</a>
+</p>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## About me
 
-Hi, I'm **David Adrian**, an Informatics student at **Universitas Tarumanagara**.
+Hi, I’m **David Adrian**, an Informatics student at **Universitas Tarumanagara**.
 
-I focus on **Machine Learning** and **Deep Learning**, with strong interest in **Large Language Models**, **Natural Language Processing**, and **Computer Vision**.
+I enjoy turning questions into working prototypes. My current interests are **machine learning**, **deep learning**, **computer vision**, and **natural language processing**. Python is my main language for exploring ideas, working with data, and building AI projects.
 
-I enjoy learning how intelligent systems work and building projects that solve practical problems using data, models, and software development.
-
----
-
-## 🧠 Focus Areas
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Machine%20Learning-0F172A?style=for-the-badge&logo=scikitlearn&logoColor=orange" />
-<img src="https://img.shields.io/badge/Deep%20Learning-0F172A?style=for-the-badge&logo=tensorflow&logoColor=red" />
-<img src="https://img.shields.io/badge/LLM-0F172A?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/NLP-0F172A?style=for-the-badge&logo=python&logoColor=yellow" />
-<img src="https://img.shields.io/badge/Computer%20Vision-0F172A?style=for-the-badge&logo=opencv&logoColor=blue" />
-
-</div>
+I am also a **Machine Learning Intern at FlyRank AI** and a **professional Honor of Kings player for ONIC**. These two experiences have shaped the way I work: stay curious, practice consistently, and keep improving when the first version is not good enough.
 
 ---
 
-## 🛠️ Tech Stack
+## Selected projects
 
-<div align="center">
+### Smart Glasses
 
-<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,html,css,react,nextjs,nodejs,git,github,vscode" />
+An assistive technology project for people who are blind or visually impaired. The system explores object detection and text-to-speech to help users understand their surroundings.
 
-</div>
+**[Open project →](https://smart-glasses-beta.vercel.app/)**
 
----
+### Quantum Trading
 
-## 📊 GitHub Overview
+An exploration of using data and AI concepts in the stock market domain. This project represents my interest in finding patterns and building tools that support better analysis.
 
-<div align="center">
+**[Open project →](https://quan-t-rading-backend-gold.vercel.app/)**
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vim-A&theme=tokyonight" />
+### Bahasa SIBI
 
-<br><br>
+A computer vision project focused on Indonesian Sign Language, or SIBI. The goal is to explore how visual recognition can help make communication more accessible.
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vim-A&theme=tokyonight" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vim-A&theme=tokyonight" />
+**[Open project →](https://bahasa-sibi.vercel.app/)**
 
-<br><br>
+### Bot David
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vim-A&theme=tokyonight" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vim-A&theme=tokyonight&utcOffset=7" />
+A personal chatbot experiment and a place for me to explore conversational interfaces, language, and future NLP ideas.
 
-</div>
+**[Open project →](https://botdavid.vercel.app/)**
 
 ---
 
-## 🐍 Contribution Snake
+## Focus areas
 
-<div align="center">
+<p>
+  <img src="https://img.shields.io/badge/Python-18181B?style=flat-square&logo=python&logoColor=FFD43B" alt="Python" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-18181B?style=flat-square&logo=scikitlearn&logoColor=F7931E" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-18181B?style=flat-square&logo=pytorch&logoColor=EE4C2C" alt="Deep Learning" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-18181B?style=flat-square&logo=opencv&logoColor=5C3EE8" alt="Computer Vision" />
+  <img src="https://img.shields.io/badge/NLP-18181B?style=flat-square&logo=probot&logoColor=7C3AED" alt="Natural Language Processing" />
+</p>
 
-<img src="https://raw.githubusercontent.com/Vim-A/Vim-A/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+## Tools I use
 
-</div>
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Vim-A&theme=tokyonight&hide_border=true" />
-
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,html,css,react,nextjs,nodejs,git,github,vscode" alt="Technology stack" />
+</p>
 
 ---
 
-## 🌐 Connect With Me
+## Experience
 
-<div align="center">
-
-<a href="https://www.linkedin.com/in/david-adrian-177100332/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-David%20Adrian-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-</div>
+| Role | Organization |
+| --- | --- |
+| Machine Learning Intern | FlyRank AI |
+| Professional Honor of Kings Player | ONIC |
+| Informatics Student | Universitas Tarumanagara |
 
 ---
 
-## ✨ Personal Motto
+## Certificates
 
-<div align="center">
-
-**Building intelligent systems with curiosity, consistency, and purpose.**
-
-</div>
+- **Samsung Innovation Campus**, Stage 1: Code Kickstart - Python Programming
+- **FlyRank AI**, Machine Learning Intern experience
 
 ---
 
+## Let’s connect
+
+I’m open to conversations about AI projects, machine learning, NLP, computer vision, research ideas, and collaboration.
+
+- Email: [ropildavid@gmail.com](mailto:ropildavid@gmail.com)
+- LinkedIn: [David Adrian](https://www.linkedin.com/in/david-adrian-177100332/)
+- Instagram: [@Onic.Vim](https://instagram.com/Onic.Vim)
+- Portfolio: [David Adrian](https://github.com/Vim-A)
+
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Vim-A&label=Profile%20Views&color=38BDF8&style=for-the-badge" />
+**Build something useful. Learn from every version.**
 
 </div>
